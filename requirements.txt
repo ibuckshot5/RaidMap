@@ -1,0 +1,2 @@
+peewee==2.8.1
+git+https://github.com/pogodevorg/pgoapi.git@cd87d552589279447f9691337969b74602160100#egg=pgoapi
