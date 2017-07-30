@@ -2,4 +2,4 @@
 Pokemon GO Scanner for Raids
 
 # How does it work?
-it does
+it does, i think
